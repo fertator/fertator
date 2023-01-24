@@ -1,3 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sarmat</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sarmat Dzarakhokhov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Unity, Front-End</h3>
+<h3 align="center">Unity, Front-End, Node JS, Cinema 4D, PHP, MySqli</h3>
